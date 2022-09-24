@@ -1,5 +1,5 @@
 
-## Olá!! sou a Cinthia Caroline, e atualmente estou no processo de formação em full stack Java pela Generation...
+## Olá!! sou a Cinthia Caroline, Desenvolvedora FullStack Java jr. & Graduada em Web Design Publicitário.
 <div align="center">
   <a href="https://github.com/cinthiacash">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=cinthiacash&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
